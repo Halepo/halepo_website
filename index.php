@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title><?php bloginfo( 'name' ); ?></title>
+  <title><?php bloginfo('name'); ?></title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <?php wp_head(); ?>
@@ -21,12 +21,12 @@
       <div class="container">
         <div class="row align-items-center justify-content-center">
           <div class="col-md-12" style="position: relative" data-aos="fade-up" data-aos-delay="200">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_investing_7u74.svg'; ?>"" alt="Image" class="img-fluid img-absolute" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_investing_7u74.svg'; ?>"" alt=" Image" class="img-fluid img-absolute" />
             <div class="row mb-4" data-aos="fade-up" data-aos-delay="200">
               <div class="col-lg-6 mr-auto">
                 <h1>Make Your Business More Profitable</h1>
                 <p class="mb-5">
-                Partner with our experienced team and leverage our expertise in web design, development, and digital marketing to maximize your online potential and drive revenue growth. We will make your business more profitable by developing a customized web solution that enhances your online presence, engages your target audience, and drives conversions.
+                  Partner with our experienced team and leverage our expertise in web design, development, and digital marketing to maximize your online potential and drive revenue growth. We will make your business more profitable by developing a customized web solution that enhances your online presence, engages your target audience, and drives conversions.
                 </p>
                 <div>
                   <a href="#contact-section" class="btn btn-primary mr-2 mb-2">Get Started</a>
@@ -43,7 +43,7 @@
           <div class="col-7 text-center mb-5">
             <h2 class="section-title">The Ways We Make Your Life Easier</h2>
             <p class="lead">
-            We are famous for our exceptional web development skills, infusing a little bit of magic into everything we do, crafting unique and innovative digital solutions that will make your online presence shine and drive business growth. The following are a few among our menu of offerings
+              We are famous for our exceptional web development skills, infusing a little bit of magic into everything we do, crafting unique and innovative digital solutions that will make your online presence shine and drive business growth. The following are a few among our menu of offerings
             </p>
           </div>
         </div>
@@ -56,9 +56,9 @@
               <div>
                 <h3>Dynamic Websites</h3>
                 <p>
-                  
 
-We design and develop enteprise level dynamic websites for your business. Our UX/UI experts will provide the best fit designes for your website based on your requirements and our developer team will convert the designes into a great website. We care alot for the user experience and we strive to give the ultimate solutions.
+
+                  We design and develop enteprise level dynamic websites for your business. Our UX/UI experts will provide the best fit designes for your website based on your requirements and our developer team will convert the designes into a great website. We care alot for the user experience and we strive to give the ultimate solutions.
 
 
                 </p>
@@ -75,8 +75,8 @@ We design and develop enteprise level dynamic websites for your business. Our UX
                 <h3>Custom Web Applications</h3>
                 <p>
 
-                
-Do you have a specific plan that you want us to implement and deploy? Please let us know, our professionals will assess your requirements and make them real. We design and develop custome functionality web applications that would solve your business issues.
+
+                  Do you have a specific plan that you want us to implement and deploy? Please let us know, our professionals will assess your requirements and make them real. We design and develop custome functionality web applications that would solve your business issues.
 
 
                 </p>
@@ -93,8 +93,8 @@ Do you have a specific plan that you want us to implement and deploy? Please let
                 <h3>Mobile Apps both for Andriod & IOS</h3>
                 <p>
 
-                
-Mobile apps will be a great addition to streamline your business operations, provide your values to your customers fast & on-time and handle large data. With our mobile app development expertise, you are in a good hand to make your next mobile app idea launched in no time.
+
+                  Mobile apps will be a great addition to streamline your business operations, provide your values to your customers fast & on-time and handle large data. With our mobile app development expertise, you are in a good hand to make your next mobile app idea launched in no time.
 
 
                 </p>
@@ -110,9 +110,9 @@ Mobile apps will be a great addition to streamline your business operations, pro
               <div>
                 <h3>Enterprise ERP Systems</h3>
                 <p>
-                  
 
-                Looking for an enterprise resource planning (ERP) solution that's out of this world? Look no further! Our team of skilled designers and developers create high-quality, cloud-based and local-network ERP solutions that are the perfect fit for small to mid-level businesses in all sorts of industries. Our ERP solutions include all the bells and whistles you need, such as inventory management, sales and purchase management, office management, and accounting and finance management, along with robust reporting and analytics to help you stay on top of your game. Trust us, with our ERP solutions, your business will blast off to new heights!
+
+                  Looking for an enterprise resource planning (ERP) solution that's out of this world? Look no further! Our team of skilled designers and developers create high-quality, cloud-based and local-network ERP solutions that are the perfect fit for small to mid-level businesses in all sorts of industries. Our ERP solutions include all the bells and whistles you need, such as inventory management, sales and purchase management, office management, and accounting and finance management, along with robust reporting and analytics to help you stay on top of your game. Trust us, with our ERP solutions, your business will blast off to new heights!
 
 
                 </p>
@@ -130,7 +130,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
                 <p>
 
 
-                Looking to jazz up your business with some snazzy marketing and advertising design materials? Let our professionals work their magic to bring your vision to life! We're here to help you stand out in a crowded marketplace with eye-catching designs that leave a lasting impression. From logos and banners to posters and beyond, we'll make sure your materials grab attention and communicate your message loud and clear!
+                  Looking to jazz up your business with some snazzy marketing and advertising design materials? Let our professionals work their magic to bring your vision to life! We're here to help you stand out in a crowded marketplace with eye-catching designs that leave a lasting impression. From logos and banners to posters and beyond, we'll make sure your materials grab attention and communicate your message loud and clear!
 
 
                 </p>
@@ -146,7 +146,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
               <div>
                 <h3>Branding and Marketing</h3>
                 <p>
-                In today's fast-paced world, creating a standout brand, marketing effectively, and crafting beautiful living and working environments are more important than ever. And that's where we come in! Our team of expert designers are here to work with you to assess your needs, merge them with our own creative ideas, and bring your vision to life in your office or home environment. With our help, you'll get the best experience possible, with stunning branding, effective marketing, and beautiful, high-standard design that will leave a lasting impression. Let's get to work!
+                  In today's fast-paced world, creating a standout brand, marketing effectively, and crafting beautiful living and working environments are more important than ever. And that's where we come in! Our team of expert designers are here to work with you to assess your needs, merge them with our own creative ideas, and bring your vision to life in your office or home environment. With our help, you'll get the best experience possible, with stunning branding, effective marketing, and beautiful, high-standard design that will leave a lasting impression. Let's get to work!
                 </p>
                 <p><a href="#">Learn More</a></p>
               </div>
@@ -159,17 +159,17 @@ Mobile apps will be a great addition to streamline your business operations, pro
       <div class="container">
         <div class="row mb-5 site-section">
           <div class="col-lg-7" data-aos="fade-right">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_gift_card_6ekc.svg'; ?>" alt="Image" class="img-fluid" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_gift_card_6ekc.svg'; ?>" alt="Image" class="img-fluid" />
           </div>
           <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
             <h2 class="text-black"> Brainstorm Bonanza</h2>
             <p class="mb-4">
-            We kick things off with a bang, diving deep into your vision and needs to brainstorm ideas until we hit the jackpot.
+              We kick things off with a bang, diving deep into your vision and needs to brainstorm ideas until we hit the jackpot.
             </p>
             <div class="author-box" data-aos="fade-left">
               <div class="d-flex mb-4">
                 <div class="mr-3">
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_4.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_4.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
                 </div>
                 <div class="mr-auto text-black">
                   <strong class="font-weight-bold mb-0">Tom</strong>
@@ -185,17 +185,17 @@ Mobile apps will be a great addition to streamline your business operations, pro
         </div>
         <div class="mt-5 row mb-5 site-section">
           <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_metrics_gtu7.svg'; ?>" alt="Image" class="img-fluid" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_metrics_gtu7.svg'; ?>" alt="Image" class="img-fluid" />
           </div>
           <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
             <h2 class="text-black">Design Delight</h2>
             <p class="mb-4">
-            Our team of expert designers will work their magic to create a stunning design that's tailor-made for your brand and audience, and will make you say "wow"!
+              Our team of expert designers will work their magic to create a stunning design that's tailor-made for your brand and audience, and will make you say "wow"!
             </p>
             <div class="author-box" data-aos="fade-right">
               <div class="d-flex mb-4">
                 <div class="mr-3">
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
                 </div>
                 <div class="mr-auto text-black">
                   <strong class="font-weight-bold mb-0">Umeluda</strong>
@@ -211,17 +211,17 @@ Mobile apps will be a great addition to streamline your business operations, pro
         </div>
         <div class="row mb-5 site-section">
           <div class="col-lg-7" data-aos="fade-right">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_gift_card_6ekc.svg'; ?>" alt="Image" class="img-fluid" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_gift_card_6ekc.svg'; ?>" alt="Image" class="img-fluid" />
           </div>
           <div class="col-lg-5 pl-lg-5 ml-auto mt-md-5">
             <h2 class="text-black">Development Dynamo</h2>
             <p class="mb-4">
-            This is where the rubber meets the road, as our developers get to work building your web or application with a focus on performance, security, and user experience.
+              This is where the rubber meets the road, as our developers get to work building your web or application with a focus on performance, security, and user experience.
             </p>
             <div class="author-box" data-aos="fade-left">
               <div class="d-flex mb-4">
                 <div class="mr-3">
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_4.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_4.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
                 </div>
                 <div class="mr-auto text-black">
                   <strong class="font-weight-bold mb-0">John</strong>
@@ -237,17 +237,17 @@ Mobile apps will be a great addition to streamline your business operations, pro
         </div>
         <div class="mt-5 row mb-5 site-section">
           <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_metrics_gtu7.svg'; ?>" alt="Image" class="img-fluid" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_metrics_gtu7.svg'; ?>" alt="Image" class="img-fluid" />
           </div>
           <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
             <h2 class="text-black">Launch Party</h2>
             <p class="mb-4">
-            The moment you've been waiting for! We launch your web or application with a bang, making sure everything is running smoothly and you're set up for success.
+              The moment you've been waiting for! We launch your web or application with a bang, making sure everything is running smoothly and you're set up for success.
             </p>
             <div class="author-box" data-aos="fade-right">
               <div class="d-flex mb-4">
                 <div class="mr-3">
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid rounded-circle" />
                 </div>
                 <div class="mr-auto text-black">
                   <strong class="font-weight-bold mb-0">Rachel</strong>
@@ -272,12 +272,12 @@ Mobile apps will be a great addition to streamline your business operations, pro
         </div>
         <div class="row mb-5">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="<?php echo get_template_directory_uri().'/assets/images/undraw_bookmarks_r6up.svg'; ?>" alt="Image" class="img-fluid" />
+            <img src="<?php echo get_template_directory_uri() . '/assets/images/undraw_bookmarks_r6up.svg'; ?>" alt="Image" class="img-fluid" />
           </div>
           <div class="col-lg-5 ml-auto pl-lg-5">
             <h2 class="text-black mb-4 h3 font-weight-bold">Our Mission</h2>
             <p class="mb-4">
-            Our mission is to provide top-notch web and application development services to help businesses reach their full potential. We strive to achieve this by:
+              Our mission is to provide top-notch web and application development services to help businesses reach their full potential. We strive to achieve this by:
 
 
 
@@ -303,7 +303,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           <div class="col-7 text-center mb-5">
             <h2 class="section-title">Our Team</h2>
             <p class="lead">
-            Our team brings years of experience and a proven track record of success to every project we undertake.
+              Our team brings years of experience and a proven track record of success to every project we undertake.
             </p>
           </div>
         </div>
@@ -312,7 +312,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
             <div class="person">
               <div class="bio-img">
                 <figure>
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid" />
                 </figure>
                 <div class="social">
                   <a href="#"><span class="icon-facebook"></span></a>
@@ -323,7 +323,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
               <h2 class="text-black h1">Zemichael Mehretu</h2>
               <span class="sub-title d-block mb-3">Full Stack Developer</span>
               <p>
-              A professional Full Stack Developer & an expert Designer well experienced in MERN and Python Stack - Django, Node JS, React JS, MongoDB, RDBMS, API Development along with HTML5, CSS3, and JavaScript. I am proficient in Adobe suite products Photoshop, Illustrator, and InDesign. I can prepare high-quality web & app design, and prototyping using Figma and XD.
+                A professional Full Stack Developer & an expert Designer well experienced in MERN and Python Stack - Django, Node JS, React JS, MongoDB, RDBMS, API Development along with HTML5, CSS3, and JavaScript. I am proficient in Adobe suite products Photoshop, Illustrator, and InDesign. I can prepare high-quality web & app design, and prototyping using Figma and XD.
               </p>
             </div>
           </div>
@@ -331,7 +331,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
             <div class="person">
               <div class="bio-img">
                 <figure>
-                  <img src="<?php echo get_template_directory_uri().'/assets/images/person_2.jpg'; ?>" alt="Image" class="img-fluid" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/zemichael_1.jpg'; ?>" alt="Image" class="img-fluid" />
                 </figure>
                 <div class="social">
                   <a href="#"><span class="icon-facebook"></span></a>
@@ -342,7 +342,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
               <h2 class="text-black h1">Melkam Merhatsidk</h2>
               <span class="sub-title d-block mb-3">Full Stack Developer</span>
               <p>
-              Senior Front-End, Web, and MERN Stack developer with over 4 years of proven and meaningful contributions to teams of varying size and scope, helping companies create and maintain a better code base for reusability as well as designing high-quality interfaces having in mind UX/UI standards. I am well experienced in driving projects forward as a leader, facilitating them from concept to launch. 
+                Senior Front-End, Web, and MERN Stack developer with over 4 years of proven and meaningful contributions to teams of varying size and scope, helping companies create and maintain a better code base for reusability as well as designing high-quality interfaces having in mind UX/UI standards. I am well experienced in driving projects forward as a leader, facilitating them from concept to launch.
               </p>
             </div>
           </div>
@@ -362,7 +362,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           <div class="testimonial">
             <figure class="mb-4 d-block align-items-center justify-content-center">
               <div>
-                <img src="<?php echo get_template_directory_uri().'/assets/images/person_3.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/melkam_1.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
               </div>
             </figure>
             <blockquote class="mb-3">
@@ -381,7 +381,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           <div class="testimonial">
             <figure class="mb-4 d-block align-items-center justify-content-center">
               <div>
-                <img src="<?php echo get_template_directory_uri().'/assets/images/person_2.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/person_2.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
               </div>
             </figure>
             <blockquote class="mb-3">
@@ -400,7 +400,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           <div class="testimonial">
             <figure class="mb-4 d-block align-items-center justify-content-center">
               <div>
-                <img src="<?php echo get_template_directory_uri().'/assets/images/person_4.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/person_4.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
               </div>
             </figure>
             <blockquote class="mb-3">
@@ -419,7 +419,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           <div class="testimonial">
             <figure class="mb-4 d-block align-items-center justify-content-center">
               <div>
-                <img src="<?php echo get_template_directory_uri().'/assets/images/person_1.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
               </div>
             </figure>
             <blockquote class="mb-3">
@@ -446,7 +446,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
-              <img src="<?php echo get_template_directory_uri().'/assets/images/img_1.jpg'; ?>" alt="Image" class="img-fluid" />
+              <img src="<?php echo get_template_directory_uri() . '/assets/images/img_1.jpg'; ?>" alt="Image" class="img-fluid" />
               <h2><a href="#">Make Your Business More Profitable</a></h2>
               <div class="meta mb-4">
                 Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span>
@@ -462,7 +462,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
-              <img src="<?php echo get_template_directory_uri().'/assets/images/img_2.jpg'; ?>" alt="Image" class="img-fluid" />
+              <img src="<?php echo get_template_directory_uri() . '/assets/images/img_2.jpg'; ?>" alt="Image" class="img-fluid" />
               <h2><a href="#">Make Your Business More Profitable</a></h2>
               <div class="meta mb-4">
                 James Phelps <span class="mx-2">&bullet;</span> Jan 18,
@@ -478,7 +478,7 @@ Mobile apps will be a great addition to streamline your business operations, pro
           </div>
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="h-entry">
-              <img src="<?php echo get_template_directory_uri().'/assets/images/img_3.jpg'; ?>" alt="Image" class="img-fluid" />
+              <img src="<?php echo get_template_directory_uri() . '/assets/images/img_3.jpg'; ?>" alt="Image" class="img-fluid" />
               <h2><a href="#">Make Your Business More Profitable</a></h2>
               <div class="meta mb-4">
                 James Phelps <span class="mx-2">&bullet;</span> Jan 18,
@@ -545,19 +545,19 @@ Mobile apps will be a great addition to streamline your business operations, pro
       </div>
     </section>
     <?php get_footer() ?>
-</main>
+  </main>
 
   <div class="scripts">
     <?php wp_footer(); ?>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-  
+
       function gtag() {
         dataLayer.push(arguments);
       }
       gtag('js', new Date());
-  
+
       gtag('config', 'UA-23581568-13');
     </script>
     <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"79bec8ab5a5c73d3","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.2.0","si":100}' crossorigin="anonymous"></script>
