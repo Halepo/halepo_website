@@ -308,30 +308,11 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="person">
               <div class="bio-img">
                 <figure>
-                  <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="img-fluid" />
-                </figure>
-                <div class="social">
-                  <a href="#"><span class="icon-facebook"></span></a>
-                  <a href="#"><span class="icon-twitter"></span></a>
-                  <a href="#"><span class="icon-instagram"></span></a>
-                </div>
-              </div>
-              <h2 class="text-black h1">Zemichael Mehretu</h2>
-              <span class="sub-title d-block mb-3">Full Stack Developer</span>
-              <p>
-                A professional Full Stack Developer & an expert Designer well experienced in MERN and Python Stack - Django, Node JS, React JS, MongoDB, RDBMS, API Development along with HTML5, CSS3, and JavaScript. I am proficient in Adobe suite products Photoshop, Illustrator, and InDesign. I can prepare high-quality web & app design, and prototyping using Figma and XD.
-              </p>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="person">
-              <div class="bio-img">
-                <figure>
-                  <img src="<?php echo get_template_directory_uri() . '/assets/images/zemichael_1.jpg'; ?>" alt="Image" class="img-fluid" />
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/melkam_1.jpg'; ?>" alt="Image" class="img-fluid" />
                 </figure>
                 <div class="social">
                   <a href="#"><span class="icon-facebook"></span></a>
@@ -343,6 +324,25 @@
               <span class="sub-title d-block mb-3">Full Stack Developer</span>
               <p>
                 Senior Front-End, Web, and MERN Stack developer with over 4 years of proven and meaningful contributions to teams of varying size and scope, helping companies create and maintain a better code base for reusability as well as designing high-quality interfaces having in mind UX/UI standards. I am well experienced in driving projects forward as a leader, facilitating them from concept to launch.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="person">
+              <div class="bio-img">
+                <figure>
+                  <img src="<?php echo get_template_directory_uri() . '/assets/images/zemichael_1.jpg'; ?>" alt="Image" class="img-fluid" />
+                </figure>
+                <div class="social">
+                  <a href="#"><span class="icon-facebook"></span></a>
+                  <a href="#"><span class="icon-twitter"></span></a>
+                  <a href="#"><span class="icon-instagram"></span></a>
+                </div>
+              </div>
+              <h2 class="text-black h1">Zemichael Mehretu</h2>
+              <span class="sub-title d-block mb-3">Full Stack Developer</span>
+              <p>
+                A professional Full Stack Developer & an expert Designer well experienced in MERN and Python Stack - Django, Node JS, React JS, MongoDB, RDBMS, API Development along with HTML5, CSS3, and JavaScript. I am proficient in Adobe suite products Photoshop, Illustrator, and InDesign. I can prepare high-quality web & app design, and prototyping using Figma and XD.
               </p>
             </div>
           </div>
@@ -362,7 +362,7 @@
           <div class="testimonial">
             <figure class="mb-4 d-block align-items-center justify-content-center">
               <div>
-                <img src="<?php echo get_template_directory_uri() . '/assets/images/melkam_1.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
+                <img src="<?php echo get_template_directory_uri() . '/assets/images/person_1.jpg'; ?>" alt="Image" class="w-100 img-fluid mb-3 shadow" />
               </div>
             </figure>
             <blockquote class="mb-3">
